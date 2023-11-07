@@ -48,6 +48,5 @@ public class Trabajo4Punto3 {
                 System.out.println(nombres[i] + " con " + edades[i] + " años");
             }
         }
-        System.out.println("pepe");
     }
 }
